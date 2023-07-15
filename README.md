@@ -16,3 +16,5 @@ Application Purpose: This Python code imports libraries, initializes components 
 ![Final fritzing](https://github.com/yildocan/IOT-PROJECT/assets/78322710/3f2e87d0-1e2e-4ffa-97c1-27d2976a43fb)
 
 ![devre final](https://github.com/yildocan/IOT-PROJECT/assets/78322710/21cbbf9d-c704-47cd-bc8a-6dc0c9aca95c)
+
+https://github.com/yildocan/IOT-PROJECT/assets/78322710/db044f1c-7a7e-464f-864a-539980cc424c
